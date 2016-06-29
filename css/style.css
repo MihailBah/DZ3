@@ -1,0 +1,18 @@
+header{
+	width: 1060px;
+	margin: 0px auto;
+}
+.bg{
+	width: 1366px;
+	height: 950px;
+	margin: 0px auto;
+	background-color: #f9f9f9;
+}
+.container{
+	width: 1060px;
+	height: 950px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	box-shadow: 2px 0 2px -1px gray, -2px 0 2px -2px gray;
+}
